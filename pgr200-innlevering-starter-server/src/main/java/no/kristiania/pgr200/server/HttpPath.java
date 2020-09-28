@@ -1,5 +1,6 @@
 package no.kristiania.pgr200.server;
 
+//Felles
 import java.util.LinkedHashMap;
 
 public class HttpPath {

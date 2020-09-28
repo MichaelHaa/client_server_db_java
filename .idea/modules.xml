@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pgr200-innlevering-starter.iml" filepath="$PROJECT_DIR$/pgr200-innlevering-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgr200-innlevering-starter-client/pgr200-innlevering-starter-client.iml" filepath="$PROJECT_DIR$/pgr200-innlevering-starter-client/pgr200-innlevering-starter-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgr200-innlevering-starter-core/pgr200-innlevering-starter-core.iml" filepath="$PROJECT_DIR$/pgr200-innlevering-starter-core/pgr200-innlevering-starter-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgr200-innlevering-starter-server/pgr200-innlevering-starter-server.iml" filepath="$PROJECT_DIR$/pgr200-innlevering-starter-server/pgr200-innlevering-starter-server.iml" />
+    </modules>
+  </component>
+</project>

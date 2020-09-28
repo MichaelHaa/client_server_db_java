@@ -1,5 +1,7 @@
 package no.kristiania.pgr200.core;
 
+//Michael
+
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;

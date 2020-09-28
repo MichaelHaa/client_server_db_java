@@ -1,5 +1,7 @@
 package no.kristiania.pgr200.server;
 
+//Felles
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;

@@ -1,5 +1,7 @@
 package no.kristiania.pgr200.core;
 
+
+//Michael
 public class ConferenceTalk {
     
 	private String title, description, topic, day, starts, id;

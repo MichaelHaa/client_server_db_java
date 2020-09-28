@@ -1,5 +1,7 @@
 package no.kristiania.pgr200.core;
 
+//Michael
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
